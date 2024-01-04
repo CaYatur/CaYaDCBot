@@ -1,0 +1,6 @@
+{
+    "scripts": "bot.js",
+    "outputPath": "output.exe",
+    "windowed": true
+  }
+  
